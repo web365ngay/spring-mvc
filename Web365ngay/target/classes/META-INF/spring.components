@@ -1,0 +1,5 @@
+com.web365ngay.prospring5.ch17.domain.Contact=javax.persistence.Entity,javax.persistence.Table
+com.web365ngay.prospring5.ch17.repository.ContactRepository=org.springframework.data.repository.Repository
+com.web365ngay.prospring5.ch17.service.jpa.ContactServiceImpl=org.springframework.stereotype.Component
+com.web365ngay.prospring5.ch17.web.controller.ContactController=org.springframework.stereotype.Component
+com.web365ngay.prospring5.ch17.web.controller.SecurityController=org.springframework.stereotype.Component
